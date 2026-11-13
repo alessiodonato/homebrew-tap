@@ -1,8 +1,8 @@
 class Forchetta < Formula
   desc "Local control center for the Claude Code sessions running on your Mac"
   homepage "https://alessiodonato.github.io/forchetta/"
-  url "https://github.com/alessiodonato/forchetta/releases/download/v0.9.0/forchetta-0.9.0.tar.gz"
-  sha256 "f07dde01a43452e64382cd18bb99372e6b46f0ff27a8284fb212e0316fee467e"
+  url "https://github.com/alessiodonato/forchetta/releases/download/v0.9.1/forchetta-0.9.1.tar.gz"
+  sha256 "05e147a6492162574a49beb4e3b5763d4542410942bfe409482d1b588916f38c"
   license "Apache-2.0"
 
   depends_on :macos
