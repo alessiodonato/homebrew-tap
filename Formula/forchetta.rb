@@ -1,5 +1,5 @@
 class Forchetta < Formula
-  desc "Local control center for the Claude Code sessions running on your Mac"
+  desc "Draw teams of Claude Code agents that work in one folder without collisions"
   homepage "https://forchetta.dev/"
   url "https://github.com/alessiodonato/forchetta/releases/download/v0.10.0/forchetta-0.10.0.tar.gz"
   sha256 "054243bf6171d43e43b3f4fe948fb5fb7adb078dceb1668a9fa79db7e35dc8cd"
