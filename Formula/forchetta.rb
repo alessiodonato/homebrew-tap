@@ -1,8 +1,8 @@
 class Forchetta < Formula
   desc "Draw teams of Claude Code agents that work in one folder without collisions"
   homepage "https://forchetta.dev/"
-  url "https://github.com/alessiodonato/forchetta/releases/download/v0.12.0/forchetta-0.12.0.tar.gz"
-  sha256 "4c0d4a3c2ca2fea3b639ce19b915d9357d0e3db932954f8c075e0350b48962e8"
+  url "https://github.com/alessiodonato/forchetta/releases/download/v0.12.1/forchetta-0.12.1.tar.gz"
+  sha256 "2c66f219e4babd1020d7591ae5eeee75b9024c54e396f215fea8ad7ae1e2f8bb"
   license "Apache-2.0"
 
   depends_on :macos
