@@ -1,8 +1,8 @@
 class Forchetta < Formula
   desc "Draw teams of Claude Code agents that work in one folder without collisions"
   homepage "https://forchetta.dev/"
-  url "https://github.com/alessiodonato/forchetta/releases/download/v0.12.7/forchetta-0.12.7.tar.gz"
-  sha256 "b5e5f8d6670b03d5faa267115cb0eb7171b7812e7c61f1a3cad2bfd83e948a26"
+  url "https://github.com/alessiodonato/forchetta/releases/download/v0.12.8/forchetta-0.12.8.tar.gz"
+  sha256 "9e0d3a0a15932bf64e91a41d28e3c2922fc3aa480382e1b6457dcf9171472cf1"
   license "Apache-2.0"
 
   depends_on :macos
@@ -21,7 +21,7 @@ class Forchetta < Formula
     <<~EOS
       To build the app on this Mac, put it in ~/Applications and add the hooks to Claude Code:
         forchetta setup
-      Run it again after every `brew upgrade forchetta`.
+      Run it again after every `brew upgrade forchetta`. A new version is also one click, in the window.
     EOS
   end
 
